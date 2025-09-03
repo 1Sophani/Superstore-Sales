@@ -29,3 +29,16 @@ The dataset used is the **Sample Superstore dataset**, which contains sales and 
 - East and West regions contributed over 60% of total sales
 - Technology category drives the majority of profits
 - Furniture category shows negative profit margins — needs cost review
+
+## How to View
+- Download the `.pbix` file from this repo and open in Power BI Desktop
+- Or view screenshots in the `/images` folder
+
+## Next Steps
+- Add predictive analysis (sales forecasting)
+- Create an interactive web dashboard version
+- Compare profitability trends across discount levels
+
+## Author
+👩‍💻 Sophonie Sidrac  
+Master’s in Data Science | Data Analyst & Data Scientist
